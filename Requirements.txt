@@ -1,0 +1,13 @@
+selenium
+pytest
+pytest-html
+pytest-xdist
+pytest-rerunfailures
+pytest-sugar
+pytest-cov
+pytest-order
+pytest-dependency
+Faker
+openpyxl
+
+webdriver-manager
