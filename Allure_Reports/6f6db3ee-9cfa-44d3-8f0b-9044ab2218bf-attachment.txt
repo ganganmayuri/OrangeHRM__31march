@@ -1,2 +1,0 @@
-Browser value is: chrome
-Lunching chrome browser
