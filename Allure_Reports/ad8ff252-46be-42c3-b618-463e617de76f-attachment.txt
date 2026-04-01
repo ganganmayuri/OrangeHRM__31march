@@ -1,0 +1,2 @@
+Browser value is: firefox
+Lunching firefox browser

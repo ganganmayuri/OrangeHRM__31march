@@ -390,3 +390,103 @@
 2026-03-31 16:21:13,462 - test_OrangeHRM_login_DDT_003 - INFO - test_OrangeHRM_login_DDT_003 test completed
 2026-03-31 16:21:13,462 - test_OrangeHRM_login_DDT_003 - INFO - =============================================
 2026-03-31 16:21:13,462 - test_OrangeHRM_login_DDT_003 - INFO - =============================================
+2026-04-01 17:09:12,034 - test_OrangeHRM_login_DDT_003 - INFO - Starting Test: Verify OrangeHRM loging functionality
+2026-04-01 17:09:12,034 - test_OrangeHRM_login_DDT_003 - INFO - Starting Test: Verify OrangeHRM loging functionality
+2026-04-01 17:09:12,167 - test_OrangeHRM_login_DDT_003 - INFO - Total Rows in excel: 5
+2026-04-01 17:09:12,167 - test_OrangeHRM_login_DDT_003 - INFO - Total Rows in excel: 5
+2026-04-01 17:09:12,202 - test_OrangeHRM_login_DDT_003 - INFO - TestData: Username= Admin, Password= admin123, Excepted_Result = Login Successful
+2026-04-01 17:09:12,202 - test_OrangeHRM_login_DDT_003 - INFO - TestData: Username= Admin, Password= admin123, Excepted_Result = Login Successful
+2026-04-01 17:09:12,202 - test_OrangeHRM_login_DDT_003 - INFO - Navigating to OrangeHRM Login Page
+2026-04-01 17:09:12,202 - test_OrangeHRM_login_DDT_003 - INFO - Navigating to OrangeHRM Login Page
+2026-04-01 17:09:42,075 - test_OrangeHRM_login_DDT_003 - INFO - OrangeHRM login page loaded
+2026-04-01 17:09:42,075 - test_OrangeHRM_login_DDT_003 - INFO - OrangeHRM login page loaded
+2026-04-01 17:09:47,414 - test_OrangeHRM_login_DDT_003 - INFO - Login Successful for username= Admin
+2026-04-01 17:09:47,414 - test_OrangeHRM_login_DDT_003 - INFO - Login Successful for username= Admin
+2026-04-01 17:09:52,216 - test_OrangeHRM_login_DDT_003 - INFO - test pass for Username=Admin
+2026-04-01 17:09:52,216 - test_OrangeHRM_login_DDT_003 - INFO - test pass for Username=Admin
+2026-04-01 17:09:52,328 - test_OrangeHRM_login_DDT_003 - INFO - TestData: Username= Admin1, Password= admin123, Excepted_Result = Login Failed
+2026-04-01 17:09:52,328 - test_OrangeHRM_login_DDT_003 - INFO - TestData: Username= Admin1, Password= admin123, Excepted_Result = Login Failed
+2026-04-01 17:09:52,328 - test_OrangeHRM_login_DDT_003 - INFO - Navigating to OrangeHRM Login Page
+2026-04-01 17:09:52,328 - test_OrangeHRM_login_DDT_003 - INFO - Navigating to OrangeHRM Login Page
+2026-04-01 17:09:54,365 - test_OrangeHRM_login_DDT_003 - INFO - OrangeHRM login page loaded
+2026-04-01 17:09:54,365 - test_OrangeHRM_login_DDT_003 - INFO - OrangeHRM login page loaded
+2026-04-01 17:10:06,382 - test_OrangeHRM_login_DDT_003 - ERROR - Login failed for Username=Admin1
+2026-04-01 17:10:06,382 - test_OrangeHRM_login_DDT_003 - ERROR - Login failed for Username=Admin1
+2026-04-01 17:10:06,468 - test_OrangeHRM_login_DDT_003 - INFO - test pass for Username=Admin1
+2026-04-01 17:10:06,468 - test_OrangeHRM_login_DDT_003 - INFO - test pass for Username=Admin1
+2026-04-01 17:10:06,547 - test_OrangeHRM_login_DDT_003 - INFO - TestData: Username= Admin, Password= admin1231, Excepted_Result = Login Failed
+2026-04-01 17:10:06,547 - test_OrangeHRM_login_DDT_003 - INFO - TestData: Username= Admin, Password= admin1231, Excepted_Result = Login Failed
+2026-04-01 17:10:06,547 - test_OrangeHRM_login_DDT_003 - INFO - Navigating to OrangeHRM Login Page
+2026-04-01 17:10:06,547 - test_OrangeHRM_login_DDT_003 - INFO - Navigating to OrangeHRM Login Page
+2026-04-01 17:10:07,794 - test_OrangeHRM_login_DDT_003 - INFO - OrangeHRM login page loaded
+2026-04-01 17:10:07,794 - test_OrangeHRM_login_DDT_003 - INFO - OrangeHRM login page loaded
+2026-04-01 17:10:19,780 - test_OrangeHRM_login_DDT_003 - ERROR - Login failed for Username=Admin
+2026-04-01 17:10:19,780 - test_OrangeHRM_login_DDT_003 - ERROR - Login failed for Username=Admin
+2026-04-01 17:10:19,875 - test_OrangeHRM_login_DDT_003 - INFO - test pass for Username=Admin
+2026-04-01 17:10:19,875 - test_OrangeHRM_login_DDT_003 - INFO - test pass for Username=Admin
+2026-04-01 17:10:19,927 - test_OrangeHRM_login_DDT_003 - INFO - TestData: Username= Admin1, Password= admin1231, Excepted_Result = Login Failed
+2026-04-01 17:10:19,927 - test_OrangeHRM_login_DDT_003 - INFO - TestData: Username= Admin1, Password= admin1231, Excepted_Result = Login Failed
+2026-04-01 17:10:19,927 - test_OrangeHRM_login_DDT_003 - INFO - Navigating to OrangeHRM Login Page
+2026-04-01 17:10:19,927 - test_OrangeHRM_login_DDT_003 - INFO - Navigating to OrangeHRM Login Page
+2026-04-01 17:10:21,137 - test_OrangeHRM_login_DDT_003 - INFO - OrangeHRM login page loaded
+2026-04-01 17:10:21,137 - test_OrangeHRM_login_DDT_003 - INFO - OrangeHRM login page loaded
+2026-04-01 17:10:33,163 - test_OrangeHRM_login_DDT_003 - ERROR - Login failed for Username=Admin1
+2026-04-01 17:10:33,163 - test_OrangeHRM_login_DDT_003 - ERROR - Login failed for Username=Admin1
+2026-04-01 17:10:33,247 - test_OrangeHRM_login_DDT_003 - INFO - test pass for Username=Admin1
+2026-04-01 17:10:33,247 - test_OrangeHRM_login_DDT_003 - INFO - test pass for Username=Admin1
+2026-04-01 17:10:33,268 - test_OrangeHRM_login_DDT_003 - INFO - Test Result: ['Pass', 'Pass', 'Pass', 'Pass']
+2026-04-01 17:10:33,268 - test_OrangeHRM_login_DDT_003 - INFO - Test Result: ['Pass', 'Pass', 'Pass', 'Pass']
+2026-04-01 17:10:33,269 - test_OrangeHRM_login_DDT_003 - INFO - test_OrangeHRM_login_DDT_003 test completed
+2026-04-01 17:10:33,269 - test_OrangeHRM_login_DDT_003 - INFO - test_OrangeHRM_login_DDT_003 test completed
+2026-04-01 17:10:33,269 - test_OrangeHRM_login_DDT_003 - INFO - =============================================
+2026-04-01 17:10:33,269 - test_OrangeHRM_login_DDT_003 - INFO - =============================================
+2026-04-01 17:10:47,568 - test_OrangeHRM_login_DDT_003 - INFO - Starting Test: Verify OrangeHRM loging functionality
+2026-04-01 17:10:47,568 - test_OrangeHRM_login_DDT_003 - INFO - Starting Test: Verify OrangeHRM loging functionality
+2026-04-01 17:10:47,731 - test_OrangeHRM_login_DDT_003 - INFO - Total Rows in excel: 5
+2026-04-01 17:10:47,731 - test_OrangeHRM_login_DDT_003 - INFO - Total Rows in excel: 5
+2026-04-01 17:10:47,750 - test_OrangeHRM_login_DDT_003 - INFO - TestData: Username= Admin, Password= admin123, Excepted_Result = Login Successful
+2026-04-01 17:10:47,750 - test_OrangeHRM_login_DDT_003 - INFO - TestData: Username= Admin, Password= admin123, Excepted_Result = Login Successful
+2026-04-01 17:10:47,750 - test_OrangeHRM_login_DDT_003 - INFO - Navigating to OrangeHRM Login Page
+2026-04-01 17:10:47,750 - test_OrangeHRM_login_DDT_003 - INFO - Navigating to OrangeHRM Login Page
+2026-04-01 17:10:53,005 - test_OrangeHRM_login_DDT_003 - INFO - OrangeHRM login page loaded
+2026-04-01 17:10:53,005 - test_OrangeHRM_login_DDT_003 - INFO - OrangeHRM login page loaded
+2026-04-01 17:11:00,822 - test_OrangeHRM_login_DDT_003 - INFO - Login Successful for username= Admin
+2026-04-01 17:11:00,822 - test_OrangeHRM_login_DDT_003 - INFO - Login Successful for username= Admin
+2026-04-01 17:11:03,637 - test_OrangeHRM_login_DDT_003 - INFO - test pass for Username=Admin
+2026-04-01 17:11:03,637 - test_OrangeHRM_login_DDT_003 - INFO - test pass for Username=Admin
+2026-04-01 17:11:03,730 - test_OrangeHRM_login_DDT_003 - INFO - TestData: Username= Admin1, Password= admin123, Excepted_Result = Login Failed
+2026-04-01 17:11:03,730 - test_OrangeHRM_login_DDT_003 - INFO - TestData: Username= Admin1, Password= admin123, Excepted_Result = Login Failed
+2026-04-01 17:11:03,730 - test_OrangeHRM_login_DDT_003 - INFO - Navigating to OrangeHRM Login Page
+2026-04-01 17:11:03,730 - test_OrangeHRM_login_DDT_003 - INFO - Navigating to OrangeHRM Login Page
+2026-04-01 17:11:06,068 - test_OrangeHRM_login_DDT_003 - INFO - OrangeHRM login page loaded
+2026-04-01 17:11:06,068 - test_OrangeHRM_login_DDT_003 - INFO - OrangeHRM login page loaded
+2026-04-01 17:11:20,262 - test_OrangeHRM_login_DDT_003 - ERROR - Login failed for Username=Admin1
+2026-04-01 17:11:20,262 - test_OrangeHRM_login_DDT_003 - ERROR - Login failed for Username=Admin1
+2026-04-01 17:11:20,338 - test_OrangeHRM_login_DDT_003 - INFO - test pass for Username=Admin1
+2026-04-01 17:11:20,338 - test_OrangeHRM_login_DDT_003 - INFO - test pass for Username=Admin1
+2026-04-01 17:11:20,392 - test_OrangeHRM_login_DDT_003 - INFO - TestData: Username= Admin, Password= admin1231, Excepted_Result = Login Failed
+2026-04-01 17:11:20,392 - test_OrangeHRM_login_DDT_003 - INFO - TestData: Username= Admin, Password= admin1231, Excepted_Result = Login Failed
+2026-04-01 17:11:20,392 - test_OrangeHRM_login_DDT_003 - INFO - Navigating to OrangeHRM Login Page
+2026-04-01 17:11:20,392 - test_OrangeHRM_login_DDT_003 - INFO - Navigating to OrangeHRM Login Page
+2026-04-01 17:11:22,433 - test_OrangeHRM_login_DDT_003 - INFO - OrangeHRM login page loaded
+2026-04-01 17:11:22,433 - test_OrangeHRM_login_DDT_003 - INFO - OrangeHRM login page loaded
+2026-04-01 17:11:37,374 - test_OrangeHRM_login_DDT_003 - ERROR - Login failed for Username=Admin
+2026-04-01 17:11:37,374 - test_OrangeHRM_login_DDT_003 - ERROR - Login failed for Username=Admin
+2026-04-01 17:11:37,427 - test_OrangeHRM_login_DDT_003 - INFO - test pass for Username=Admin
+2026-04-01 17:11:37,427 - test_OrangeHRM_login_DDT_003 - INFO - test pass for Username=Admin
+2026-04-01 17:11:37,479 - test_OrangeHRM_login_DDT_003 - INFO - TestData: Username= Admin1, Password= admin1231, Excepted_Result = Login Failed
+2026-04-01 17:11:37,479 - test_OrangeHRM_login_DDT_003 - INFO - TestData: Username= Admin1, Password= admin1231, Excepted_Result = Login Failed
+2026-04-01 17:11:37,479 - test_OrangeHRM_login_DDT_003 - INFO - Navigating to OrangeHRM Login Page
+2026-04-01 17:11:37,479 - test_OrangeHRM_login_DDT_003 - INFO - Navigating to OrangeHRM Login Page
+2026-04-01 17:11:38,818 - test_OrangeHRM_login_DDT_003 - INFO - OrangeHRM login page loaded
+2026-04-01 17:11:38,818 - test_OrangeHRM_login_DDT_003 - INFO - OrangeHRM login page loaded
+2026-04-01 17:11:51,531 - test_OrangeHRM_login_DDT_003 - ERROR - Login failed for Username=Admin1
+2026-04-01 17:11:51,531 - test_OrangeHRM_login_DDT_003 - ERROR - Login failed for Username=Admin1
+2026-04-01 17:11:51,588 - test_OrangeHRM_login_DDT_003 - INFO - test pass for Username=Admin1
+2026-04-01 17:11:51,588 - test_OrangeHRM_login_DDT_003 - INFO - test pass for Username=Admin1
+2026-04-01 17:11:51,609 - test_OrangeHRM_login_DDT_003 - INFO - Test Result: ['Pass', 'Pass', 'Pass', 'Pass']
+2026-04-01 17:11:51,609 - test_OrangeHRM_login_DDT_003 - INFO - Test Result: ['Pass', 'Pass', 'Pass', 'Pass']
+2026-04-01 17:11:51,609 - test_OrangeHRM_login_DDT_003 - INFO - test_OrangeHRM_login_DDT_003 test completed
+2026-04-01 17:11:51,609 - test_OrangeHRM_login_DDT_003 - INFO - test_OrangeHRM_login_DDT_003 test completed
+2026-04-01 17:11:51,609 - test_OrangeHRM_login_DDT_003 - INFO - =============================================
+2026-04-01 17:11:51,609 - test_OrangeHRM_login_DDT_003 - INFO - =============================================

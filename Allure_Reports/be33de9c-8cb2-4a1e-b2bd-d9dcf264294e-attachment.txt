@@ -1,0 +1,25 @@
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:21 Starting Test: Verify OrangeHRM loging functionality
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:23 Total Rows in excel: 5
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:29 TestData: Username= Admin, Password= admin123, Excepted_Result = Login Successful
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:30 Navigating to OrangeHRM Login Page
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:32 OrangeHRM login page loaded
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:39 Login Successful for username= Admin
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:52 test pass for Username=Admin
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:29 TestData: Username= Admin1, Password= admin123, Excepted_Result = Login Failed
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:30 Navigating to OrangeHRM Login Page
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:32 OrangeHRM login page loaded
+[1m[31mERROR   [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:46 Login failed for Username=Admin1
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:52 test pass for Username=Admin1
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:29 TestData: Username= Admin, Password= admin1231, Excepted_Result = Login Failed
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:30 Navigating to OrangeHRM Login Page
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:32 OrangeHRM login page loaded
+[1m[31mERROR   [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:46 Login failed for Username=Admin
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:52 test pass for Username=Admin
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:29 TestData: Username= Admin1, Password= admin1231, Excepted_Result = Login Failed
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:30 Navigating to OrangeHRM Login Page
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:32 OrangeHRM login page loaded
+[1m[31mERROR   [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:46 Login failed for Username=Admin1
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:52 test pass for Username=Admin1
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:60 Test Result: ['Pass', 'Pass', 'Pass', 'Pass']
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:63 test_OrangeHRM_login_DDT_003 test completed
+[32mINFO    [0m Orange_HRM:test_OrangeHRM_login_DDT_002.py:64 =============================================
